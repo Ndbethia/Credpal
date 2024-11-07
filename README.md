@@ -3,13 +3,13 @@ Credpal AN INVESTMENT INTELLIGENCE GUIDE: Analyzing Consumer Expenditure Across 
 Attracting interest from Stripe, a San Francisco-based software technology company, CredPal secured a $2.9 million investment. However, before finalizing the investment, Stripe aims to comprehend the saving capabilities of consumers across different countries. A dedicated data analysis team has assessed the provided data, and the findings will be presented in a comprehensive report using various data visualization tools.
 
 # Business questions
-To identify the highest and lowest income levels by region
-To identify the highest and lowest disposable income levels by region
-To identify the highest and lowest total expenditure by region
-To identify the region with the highest average monthly expenditure
-To identify the region with the highest monthly expenditure
-To determine the saving capability of consumers by region
-To identify the consumption preferences of consumers
+* To identify the highest and lowest income levels by region
+* To identify the highest and lowest disposable income levels by region
+* To identify the highest and lowest total expenditure by region
+* To identify the region with the highest average monthly expenditure
+* To identify the region with the highest monthly expenditure
+* To determine the saving capability of consumers by region
+* To identify the consumption preferences of consumers
 
 # Data cleaning and transformation
 Analysis
